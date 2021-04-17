@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Picture of the word "Hello".] (https://kam-media.co.uk/wp-content/uploads/2019/03/hello-cartoons-comic-send-greeting-card-online-2526_2.jpg)
