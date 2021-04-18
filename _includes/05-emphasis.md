@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+> I have recentley _started_ to learn __Python__ and I'm also getting used to the **syntax markdown** style of _GitHub_!
